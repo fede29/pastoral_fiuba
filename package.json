@@ -4,7 +4,8 @@
   "description": "Sitio web para la pastoral universitaria de la Facultad de Ingenieria de la Universidad de Buenos Aires",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+		"start": "node app.js"
   },
   "repository": {
     "type": "git",
