@@ -1,0 +1,26 @@
+{
+  "name": "pastoral_fiuba",
+  "version": "1.0.0",
+  "description": "Sitio web para la pastoral universitaria de la Facultad de Ingenieria de la Universidad de Buenos Aires",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fede29/pastoral_fiuba.git"
+  },
+  "keywords": [
+    "sitio",
+    "web",
+    "pastoral",
+    "fiuba",
+    "uba"
+  ],
+  "author": "Federico Rodriguez Longhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fede29/pastoral_fiuba/issues"
+  },
+  "homepage": "https://github.com/fede29/pastoral_fiuba#readme"
+}
