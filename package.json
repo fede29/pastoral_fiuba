@@ -2,11 +2,18 @@
   "name": "pastoral_fiuba",
   "version": "1.0.0",
   "description": "Sitio web para la pastoral universitaria de la Facultad de Ingenieria de la Universidad de Buenos Aires",
+	"engines": {
+		"node": "5.9.1"
+	},
   "main": "index.js",
   "scripts": {
     "test": "test",
 		"start": "node index.js"
   },
+	"dependencies": {
+		"ejs": "2.4.1",
+		"express": "4.13.3"
+	},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fede29/pastoral_fiuba.git"
